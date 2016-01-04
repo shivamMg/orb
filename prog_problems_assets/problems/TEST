@@ -1,0 +1,30 @@
+TEST
+
+https://www.codechef.com/problems/TEST
+
+**A tutorial for this problem is available [here](/wiki/tutorial-inputoutput "here" )**
+
+Your program is to use the brute-force approach in order to _find the Answer
+to Life, the Universe, and Everything._ More precisely... rewrite small
+numbers from input to output. Stop processing input after reading in the
+number 42. All numbers at input are integers of one or two digits.
+
+### Example
+
+    
+    
+Input:
+
+    1
+    2
+    88
+    42
+    99
+    
+Output:
+
+    1
+    2
+    88
+
+**Solve problem at [ideone.com](https://ideone.com/) and share the link or [submit](https://www.codechef.com/problems/TEST) solution directly.**

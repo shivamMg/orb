@@ -1,0 +1,50 @@
+E1
+
+https://www.codechef.com/problems/E1
+
+You are given a chessboard of size NxN. There is a white knight and several
+black pawns located on the board. The knight can move similarly to the normal
+knight in the game of chess; however it can only move towards the right of the
+board (see the below figure).
+
+![](http://vn.spoj.pl/SPOJVN/content/whitekn.png)
+
+The mission of the knight is to capture as many black pawns as possible. Its
+journey ends when it moves to the rightmost column of the board.
+
+Compute the maximum number of black pawns the white knight can capture.
+
+### Input
+
+The first line contains t, the number of test cases (about 10). Then t test
+cases follow.
+
+Each test case has the following form:
+
+* The first line contains N, the size of the chessboard (4 ≤ N ≤ 1000).
+* Then N lines follow, each line containing N characters which may be '0', 'K' or 'P', corresponding to the empty cell, the white knight, and the black pawn, respectively. There is exactly one 'K' character in the whole of the board.
+
+### Output
+
+For each test case, print in a single line the maximum number of black pawns
+that can be captured.
+
+### Example
+
+    
+    
+Input:
+
+    1
+    5
+    K....
+    ..P..
+    .P...
+    ...P.
+    .....
+    
+Output:
+
+    2
+
+**Solve problem at [ideone.com](https://ideone.com/) and share the link or [submit](https://www.codechef.com/problems/E1) solution directly.**
